@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ML-Teaching Studio
+Comment=Launch the ML-Teaching Studio desktop application
+Path=/Volumes/TarikA/Projects/ml_teaching_studio
+Exec=/Volumes/TarikA/Projects/ml_teaching_studio/ML-Teaching\ Studio.sh
+Icon=/Volumes/TarikA/Projects/ml_teaching_studio/assets/icons/ml_teaching_studio.svg
+Terminal=false
+Categories=Education;Science;
+StartupNotify=true
